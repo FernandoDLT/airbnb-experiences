@@ -40,7 +40,7 @@ export default  [
     },
     {
         id: 4,
-        title: "Preestine Coast Line Getaway",
+        title: "Prestine Coast Line Getaway",
         description: "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
         price: 180,
         coverImg: "balboa-beach.png",
